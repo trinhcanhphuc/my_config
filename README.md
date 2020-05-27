@@ -33,15 +33,21 @@ $ sudo cp .gitconfig ~/.gitconfig
 
 # ANDROID STUDIO
 ## Set up instruction
-
-### Install openjdk
-
-
 ### Download Android studio
 Get from: https://developer.android.com/studio
 
 ### Extract android studio
 $ sudo tar -zxvf android-studio-ide-192.6392135-linux.tar.gz -C /opt/
+
+### Install necessary libraries
+$ sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
+
+$ sudo adduser phuctc kvm
+
+$ sudo chown phuctc /dev/kvm
+
+### Run and test
+
 
 ## Like and use it
 
