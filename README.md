@@ -1,4 +1,4 @@
-
+﻿
 # NEOVIM
 ## SET UP INSTRUCTION
 
@@ -21,7 +21,7 @@ In Neovim environment install plugins
 ## Like and use it
 
 # GIT
-## SET UP INSTRUCTION
+## Set up instruction
 
 ### Install git
 Follow homepage: https://git-scm.com/
@@ -30,4 +30,19 @@ Follow homepage: https://git-scm.com/
 $ sudo cp .gitconfig ~/.gitconfig
 
 ## Like and use it
+
+# ANDROID STUDIO
+## Set up instruction
+
+### Install openjdk
+
+
+### Download Android studio
+Get from: https://developer.android.com/studio
+
+### Extract android studio
+$ sudo tar -zxvf android-studio-ide-192.6392135-linux.tar.gz -C /opt/
+
+## Like and use it
+
 
