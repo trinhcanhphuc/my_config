@@ -46,3 +46,16 @@ $ sudo tar -zxvf android-studio-ide-192.6392135-linux.tar.gz -C /opt/
 ## Like and use it
 
 
+# BAT
+## Set up instruction
+Get file from release page
+https://github.com/sharkdp/bat/releases
+Example:
+wget https://github.com/sharkdp/bat/releases/download/v0.15.4/bat_0.15.4_amd64.deb
+
+Install:
+sudo dpkg -i bat_….deb
+
+## Like and use it
+
+
