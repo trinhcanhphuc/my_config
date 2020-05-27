@@ -59,3 +59,10 @@ sudo dpkg -i bat_….deb
 ## Like and use it
 
 
+# LAZYGIT
+## Set up instruction
+$ sudo apt-app-repository ppa:lazygit-team/release
+$ sudo apt-get update
+$ sudo apt-get isntall lazygit
+
+## Like and use it
