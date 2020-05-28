@@ -72,3 +72,9 @@ $ sudo apt-get update
 $ sudo apt-get isntall lazygit
 
 ## Like and use it
+
+
+# GITHUB
+# Show all public repositories
+$ curl -s https://api.github.com/users/trinhcanhphuc/repos | grep 'clone_url'
+
