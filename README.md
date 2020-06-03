@@ -78,3 +78,12 @@ $ sudo apt-get isntall lazygit
 # Show all public repositories
 $ curl -s https://api.github.com/users/trinhcanhphuc/repos | grep 'clone_url'
 
+
+# NODEJS
+## Set up instruction
+$ curl -sL https://deb.nodesource.com/setup_13.x | sudo bash -
+$ sudo apt-get install -y nodejs
+
+## Like and use it
+$ node -v
+
