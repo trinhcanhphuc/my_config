@@ -87,3 +87,13 @@ $ sudo apt-get install -y nodejs
 ## Like and use it
 $ node -v
 
+
+
+# FISH SHELL
+## Set up instruction
+Follow link: https://fishshell.com/
+
+## Mark fish shell is default shell
+$ chsh -s `which fish`
+
+
