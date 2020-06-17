@@ -97,3 +97,10 @@ Follow link: https://fishshell.com/
 $ chsh -s `which fish`
 
 
+# RUN WINDOWS APP IN WSL2
+## Create shortcut apps
+$ sudo ln -s ..../[app-name].exe /usr/local/bin/[app-name]
+
+## Run app
+$ [app-name]
+
